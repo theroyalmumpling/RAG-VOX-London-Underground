@@ -16,12 +16,10 @@ All clips are recorded with a Behringer C-1U USB condenser microphone.
 To use this voice in Rail Announcement Generator:
 
 1. Click on the gear to open the Settings screen
-1. Make sure "Use VOX" is turned ON
-1. [Choose "GitHub - Roy" from the voice list][USAGE]
-1. Click "Save & close"
-
-Alternatively, you can use the URL `https://roycurtis.github.io/RAG-VOX-Roy` if using the
-"Custom" voice.
+2. Make sure "Use VOX" is turned ON
+3. Choose: Custom
+4. Paste the url `https://theroyalmumpling.github.io/RAG-VOX-London-Underground  
+5. Click "Save & close"
 
 # License
 
